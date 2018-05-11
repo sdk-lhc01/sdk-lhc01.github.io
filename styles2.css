@@ -7,6 +7,7 @@ body{
 }
 #title{
     /*THIS IS FOR PLACING THE TITLE SECTION*/
+    margin-top: 1em;
 }
 #title h1{
     font-size: 3em;
@@ -45,4 +46,20 @@ body{
     max-height: 60vh;
     float:right;
     margin-left: 1em;
+}
+#links{
+    /*THIS IS FOR PLACING THE LINKS SECTION*/
+    margin-top: 2em;
+}
+#links a{
+    /*positioning*/
+    display: inline-block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 1em;
+    /*text decoration*/
+    text-decoration: underline;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
 }
