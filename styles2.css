@@ -16,24 +16,24 @@ body{
     margin: auto;
     
 }
-#bio{
-    /*THIS IS FOR PLACING THE BIO SECTION*/
+#main{
+    /*THIS IS FOR PLACING THE MAIN SECTION*/
     margin-top: 5em;
     overflow: auto;
 }
-#bio h1{
+#main h1{
     font-size: 2em;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     margin: auto;
 }
-#bio h2{
+#main h2{
     font-size: 1.5em;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     margin:auto;
 }
-#bio p{
+#main p{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     margin-left: auto;
@@ -42,7 +42,7 @@ body{
     margin-top: .5em;
     font-size: 1em;
 }
-#bio img{
+#main img{
     max-width: 40vw;
     max-height: 60vh;
     float:right;
@@ -71,4 +71,3 @@ body{
     margin-right: auto;
     float: right;
 }
-/*GALLERY PAGE*/
