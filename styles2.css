@@ -4,6 +4,9 @@ html{
 body{
     margin: auto;
     max-width: 50em;
+    padding-left: .5em;
+    padding-right: .5em;
+    padding-bottom: .5em;
 }
 #title{
     /*THIS IS FOR PLACING THE TITLE SECTION*/
@@ -42,7 +45,7 @@ body{
     margin-top: .5em;
     font-size: 1em;
 }
-#main img{
+#main #bioimg{
     max-width: 40vw;
     max-height: 60vh;
     float:right;
@@ -71,3 +74,4 @@ body{
     margin-right: auto;
     float: right;
 }
+/*gallery*/
